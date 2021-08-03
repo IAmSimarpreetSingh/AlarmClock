@@ -9,4 +9,4 @@ It's an python based GUI application that set an for you.
 3. tkinter : pip install python3-tk *or* sudo apt-get install python3-tk 
 4. playsound : https://pypi.org/project/playsound/
 
-![Alarm Clock](https://raw.githubusercontent.com/IAmSimarpreetSingh/LaZzyReader/main/LazZyReader.png)
+![Alarm Clock](https://github.com/IAmSimarpreetSingh/AlarmClock/blob/main/Alarm%20Clock/Alarm-clock.png)
